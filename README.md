@@ -35,7 +35,7 @@ Der Grund warum ich lieber Slack als WhatsApp nutze ist der das Daten einfacher 
 
 Nun gehts um Struktur.
 
-## Der Masterplan™
+## Der Masterplan™ - Pantent pending
 
 ### Struktur
 Struktur ist bei einem solchen Projekt sehr wichtig und diesen Punkt zu vernachlässigen sorgt **IMMER** für Chaos.
