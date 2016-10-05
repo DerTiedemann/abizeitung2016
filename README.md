@@ -24,7 +24,7 @@ Wenn ich es geschafft habe dich zu Morivieren wenigstens ein bisschen zu helfen,
 
 [![slack](./img/Slack_small.png)](https://schlosstorgelow.slack.com "Slack Chat")
 
-Dort legst du einfach einen Account an und schreibst mir (Jan Max Tiedemann) eine Nachricht, dass du mitmachen willst. Bitte sei dir dabei so sicher, dass ich dich nicht später streichen muss.
+Dort legst du einfach einen Account an und schreibst mir (dertiedemann) eine Nachricht, dass du mitmachen willst. Bitte sei dir dabei so sicher, dass ich dich nicht später streichen muss.
 Der Grund warum ich lieber Slack als WhatsApp nutze ist der das Daten einfacher versendet werden können, es funktioniert wenn mein Handy mal offline ist und nicht alle dort sind und die ganze Sache überschaubar bleibt.
 
 Nun gehts um Struktur.
