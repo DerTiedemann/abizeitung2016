@@ -3,7 +3,7 @@
 # Abizeitung '16 - Masterplan - *Work in Progress*
 #### Quicklinks
 [![drive](./img/google_drive_small.png)](https://drive.google.com/open?id=0B88xVJmTvU5MRkdxdGIxWlV0X28 "Google Drive")
-[![slack](./img/Slack_small.png)](https://drive.google.com/open?id=0B88xVJmTvU5MRkdxdGIxWlV0X28 "Slack Chat")
+[![slack](./img/Slack_small.png)](https://schlosstorgelow.slack.com/ "Slack Chat")
 ## Inhaltsverzeichnis
 
 ## Masterplan
@@ -22,7 +22,7 @@ Ihr freut, dass ihr euch damals die Mühe gemacht habt, eine schöne Abizeitung 
 ### Mithelfen
 Wenn ich es geschafft habe dich zu Morivieren wenigstens ein bisschen zu helfen, meldest du dich bitte hier an:
 
-[![slack](./img/Slack_small.png)](https://drive.google.com/open?id=0B88xVJmTvU5MRkdxdGIxWlV0X28 "Slack Chat")
+[![slack](./img/Slack_small.png)](https://schlosstorgelow.slack.com "Slack Chat")
 
 Dort legst du einfach einen Account an und schreibst mir (Jan Max Tiedemann) eine Nachricht, dass du mitmachen willst. Bitte sei dir dabei so sicher, dass ich dich nicht später streichen muss.
 Der Grund warum ich lieber Slack als WhatsApp nutze ist der das Daten einfacher versendet werden können, es funktioniert wenn mein Handy mal offline ist und nicht alle dort sind und die ganze Sache überschaubar bleibt.
