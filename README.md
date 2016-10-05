@@ -71,7 +71,8 @@ Um die Sache fair und interessant zu halten, werde ich die Auswahl der Personen 
 Hier gilt:
 > Wer zuerst kommt, hat weniger Spaß als die anderen :fist: :sweat_drops:
 
-Wenn irgendeine Zuordnung aus einem *gutem* Grund keine so gute Idee ist, könnt ihr natürlich wechseln.
+Konkret: Was zuerst da war, hat Priorität.
+Wenn irgendeine Zuordnung aus einem **gutem** Grund keine so gute Idee ist, könnt ihr natürlich wechseln.
 
 ### Netiquette
 Aufgrund der Tatsache, das es doch relativ viele einzelne "Grüppchen" gibt die einander Empathien und/oder Antipathien hegen, appelliere ich an euren guten Menschenverstand und an eure gesellschaftliche Erziehung Gnade walten zu lassen und von einem zu sehr beleidigendem Kommentar abzusehen. Ich weiß eine solche Zeitung lebt von Witz und Disput, aber versucht es im Rahmen zu halten.
