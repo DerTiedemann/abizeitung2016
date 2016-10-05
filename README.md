@@ -20,12 +20,14 @@ Ihr macht das für euch und die Menschen die ihr in 20 Jahren seid. Wenn ihr n b
 Ihr freut, dass ihr euch damals die Mühe gemacht habt, eine schöne Abizeitung zu entwerfen, welche sich lohnt irgendwann mal unseren Kindern zu zeigen.
 
 ### Mithelfen
-Wenn ich es geschafft habe dich zu Morivieren wenigstens ein bisschen zu helfen, meldest du dich bitte hier an:
+Wenn ich es geschafft habe dich zu Morivieren wenigstens ein bisschen zu helfen, schick mit ne [Mail](mailto:janmaxtiedemann@aol.com).
+Bitte sei dir dabei so sicher, dass ich dich nicht später streichen muss.
+
+Zur Allgemeinen Kommunikation zwischen denen die mithelfen nutzen wir:
 
 [![slack](./img/Slack_small.png)](https://schlosstorgelow.slack.com "Slack Chat")
 
-Dort legst du einfach einen Account an und schreibst mir (dertiedemann) eine Nachricht, dass du mitmachen willst. Bitte sei dir dabei so sicher, dass ich dich nicht später streichen muss.
-Der Grund warum ich lieber Slack als WhatsApp nutze ist der das Daten einfacher versendet werden können, es funktioniert wenn mein Handy mal offline ist und nicht alle dort sind und die ganze Sache überschaubar bleibt.
+Der Grund warum ich lieber Slack als WhatsApp nutze ist der das Daten einfacher versendet werden können (Slack ist mit dem Google Drive Account verbunden, so könnt ihr z.B. einfach Links posten un diese dann direkt aus Slack heraus runterladen), es funktioniert wenn mein Handy mal offline ist und nur die Leute dort sind die mir ne Mail geschrieben haben und die ich eingeladen habe. Netter Nebeneffekt: die ganze Sache überschaubar bleibt.
 
 Nun gehts um Struktur.
 
@@ -35,7 +37,7 @@ Deswegen hier ein kurzer Überblick über die Ordnerstruktur, welche ich vorläu
 ```
 Abizeitung/                 -- Das ist der Ordner auf den ihr alle Lesezugriff habt
 ├── alle_fotos/             -- Hier werden alle Fotos von Abihome hochgeladen
-├── schueler/               -- Enthält für jeden Absolventen einen Ordner mit seinem vollem Namen (Sorry Lisa :grimacing:)
+├── schueler/               -- Enthält für jeden Absolventen einen Ordner mit seinem vollem Namen (Sorry Lisa)
 │   └── Max_Ruetz/          -- Langweiliger Beispielordner
 │       ├── info.xlsx       -- Excel-Tabelle welche alle wichtigen Informationen enthält (Auch Zitate etc.)
 │       ├── layout.*        -- irgendeine Bilddatei mit groben Layoutentwurf
@@ -44,3 +46,16 @@ Abizeitung/                 -- Das ist der Ordner auf den ihr alle Lesezugriff h
     └── info_vorlage.xlsx   -- Vorlage für Info-Tabelle
 ```
 Die Betonung liegt auf dem Wort **VORLÄUFIG**. Das hier ist noch lange nicht final, und ich währe dankbar für ein bisschen Feadback von eich via Slack [![slack]](https://schlosstorgelow.slack.com)
+**-->STILL WIP<-- Please be patient**
+
+## Layout
+Also was ich mit Layout meine ist, das ihr euch grob Gedanken macht wie ihr Bilder bzw. Text auf der Seite positioniert haben wollt. Da wir **148 Seiten irgendwie** voll kriegen müssen solltet ihr eine DIN A4 Seite komplett zukleistern. Nehmt das bitte nicht zu wörtlich, denn es soll am Ende ja nach was aussehen. Am einfachsten ist es ich ein Collegeblock-Blatt zu nehemn und einfach darauf zu zeichen was ihr wie wo hinhaben wollt. Wenn ihr Bilder einfügt, malt bitte einen Kasten da hin wo das Bild hinsoll , malt ein Kreuz hinein und schreibt den Namen des Bildes im den  Kasten. Wenn dir das alles noch nicht so klar ist, warte ab ich lad noch ein Beispiel-Layout hoch.
+
+## Design
+Design ist meine Aufgabe und ich werde binnen zwei Wochen (vom 05.10.16) ein grundlegendes Design entwerfen, welches ich dann auch hier hochladen werde. Bis dahin müsst ihr euch noch ein bisschen gedulden, denn Kreativität wächst nicht auf Bäumen 😉
+
+## Vorläufiges Schlusswort
+Das alles hier ist noch sehr roh und wurde ca. in einer Stunde zusammengezimmert also bitte ich dumme Rechtschreibfehler und ähnliches zu entschuldigen. Ich werde im Laufe der tage die Seite hier weiter mit Content füllen und euch auf WhatsApp und Slack auf dem laufenden halten.
+
+# :exclamation: DEADLINE :exclamation: :skull:
+Wenn sich bis in 3 Wochen nicht **mind. 10 Leute** bei mir via Mail gemeldet haben, wird die ganze Aktion eingestampft und ich werde keine weiteren Aktionen starten um noch irgendwie eine Abizeitung zustande zu bringen. In diesem Fall bin ich raus und die Sache hat sich für mich erledigt!
