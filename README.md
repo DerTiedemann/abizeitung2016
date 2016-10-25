@@ -58,7 +58,7 @@ Die Betonung liegt auf dem Wort **VORLÄUFIG**. Das hier ist noch lange nicht fi
 Also was ich mit Layout meine ist, das ihr euch grob Gedanken macht wie ihr Bilder bzw. Text auf der Seite positioniert haben wollt. Da wir **148 Seiten irgendwie** voll kriegen müssen solltet ihr eine DIN A4 Seite komplett zukleistern. Nehmt das bitte nicht zu wörtlich, denn es soll am Ende ja nach was aussehen. Am einfachsten ist es ich ein Collegeblock-Blatt zu nehemn und einfach darauf zu zeichen was ihr wie wo hinhaben wollt. Wenn ihr Bilder einfügt, malt bitte einen Kasten da hin wo das Bild hinsoll , malt ein Kreuz hinein und schreibt den Namen des Bildes im den  Kasten. Wenn dir das alles noch nicht so klar ist, warte ab ich lad noch ein Beispiel-Layout hoch.
 
 ### Design
-Design ist meine Aufgabe und ich werde binnen zwei Wochen (vom 05.10.16) ein grundlegendes Design entwerfen, welches ich dann auch hier hochladen werde. Bis dahin müsst ihr euch noch ein bisschen gedulden, denn Kreativität wächst nicht auf Bäumen :wink2:
+Design ist meine Aufgabe und ich werde binnen zwei Wochen (vom 05.10.16) ein grundlegendes Design entwerfen, welches ich dann auch hier hochladen werde. Bis dahin müsst ihr euch noch ein bisschen gedulden, denn Kreativität wächst nicht auf Bäumen :wink:
 
 ### Arbeitsbeginn
 Richtig anlaufen sollte die gesamte Aktion erst in ca. 2-3 Wochen, dann werde ich ein grundlegendes Design fertig haben und ihr könnt euch n bisschen vorstellen wie das alles nachher aussehen soll.
